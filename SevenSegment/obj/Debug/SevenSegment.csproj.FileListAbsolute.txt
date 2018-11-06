@@ -1,0 +1,7 @@
+C:\Users\lukeo\source\repos\SevenSegment\SevenSegment\bin\Debug\SevenSegment.exe.config
+C:\Users\lukeo\source\repos\SevenSegment\SevenSegment\bin\Debug\SevenSegment.exe
+C:\Users\lukeo\source\repos\SevenSegment\SevenSegment\bin\Debug\SevenSegment.pdb
+C:\Users\lukeo\source\repos\SevenSegment\SevenSegment\obj\Debug\SevenSegment.csprojAssemblyReference.cache
+C:\Users\lukeo\source\repos\SevenSegment\SevenSegment\obj\Debug\SevenSegment.csproj.CoreCompileInputs.cache
+C:\Users\lukeo\source\repos\SevenSegment\SevenSegment\obj\Debug\SevenSegment.exe
+C:\Users\lukeo\source\repos\SevenSegment\SevenSegment\obj\Debug\SevenSegment.pdb
